@@ -2,4 +2,4 @@ ushh enti idhi :(
 idhi second file :)
 third file diff kosam chestuna idhi
 ipudu dhaka basic commands chusinam ipudu push chestuna github lo ki
-git pull ni Git lo call cheyatam kosam GitHub lo edit chesi, changes commi chestuna after this Git lo cann chesta(git pull ni)
+git pull ni Git lo call cheyatam kosam GitHub lo edit chesi, changes commi chestuna after this Git lo run chesta(git pull ni)
