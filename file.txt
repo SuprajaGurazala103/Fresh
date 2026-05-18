@@ -11,4 +11,4 @@ Branching(new branch name: pichie)kosam e line ni manual ga file lo add/edit che
 =======
 Branching(new branch name: pichie)kosam e line ni manual ga file lo add/edit chesina
 this line is from cherry-pick demo
-078c0a6 (cherry-pick demo commit)
+(cherry-pick demo commit)
